@@ -7,7 +7,7 @@ Skills: / HTML / CSS / WordPress / JavaScript / Jquery
 
 - 🔭 I’m currently working on Upwork 
 - 🌱 I’m currently learning Web Design & Development  
-- 💬 Ask me about www.wphridoy.xyz 
+- 💬 Ask me about www.wphridoy.com 
 
 
 
